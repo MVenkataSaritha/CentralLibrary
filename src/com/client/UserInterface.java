@@ -35,7 +35,7 @@ public class UserInterface {
 			if (recordsAdded)
 				System.out.println("Valid book details are added successfully");
 			else
-				System.out.println("Failed to add records");
+				System.out.println("Failed to add the records");
 			
 		    // The below code calls the retrievePublisherCount method in the BookService class	
 			// It will display the count of books for a particular publisher's name
