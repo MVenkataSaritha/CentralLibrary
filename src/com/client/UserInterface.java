@@ -20,7 +20,7 @@ public class UserInterface {
 			
 			
 			System.out.println("Enter the number of books");
-		        System.out.println (" ");
+		        System.out.println ("Hi");
 			int num=s.nextInt();
 			String b[]=new String[num];
 			System.out.println("Enter the book details");
